@@ -1,0 +1,75 @@
+-------- Model: Logistic Regression ---------
+
+Learning rate: 0.01
+Total Iterations: 1000
+Accuracy: 94.5754716981132
+
+-------- Model: Logistic Regression ---------
+
+Learning rate: 0.01
+Total Iterations: 10000
+Accuracy: 95.75471698113208
+
+-------- Model: Logistic Regression ---------
+
+Learning rate: 0.5
+Total Iterations: 1000
+Accuracy: 95.51886792452831
+
+-------- Model: Logistic Regression ---------
+
+Learning rate: 0.5
+Total Iterations: 10000
+Accuracy: 95.99056603773585
+
+-------- Model: Logistic Regression ---------
+
+Learning rate: 1
+Total Iterations: 1000
+Accuracy: 95.99056603773585
+
+-------- Model: Logistic Regression ---------
+
+Learning rate: 1
+Total Iterations: 10000
+Accuracy: 95.99056603773585
+
+-------- Model: Third Order Regression ---------
+
+Learning rate: 0.01
+Total Iterations: 1000
+Accuracy: 94.5754716981132
+
+-------- Model: Third Order Regression ---------
+
+Learning rate: 0.01
+Total Iterations: 10000
+Accuracy: 95.51886792452831
+
+-------- Model: Third Order Regression ---------
+
+Learning rate: 0.5
+Total Iterations: 1000
+Accuracy: 95.28301886792453
+
+-------- Model: Third Order Regression ---------
+
+Learning rate: 0.5
+Total Iterations: 10000
+Accuracy: 95.99056603773585
+
+-------- Model: Third Order Regression ---------
+
+Learning rate: 1
+Total Iterations: 1000
+Accuracy: 95.99056603773585
+
+-------- Model: Third Order Regression ---------
+
+Learning rate: 1
+Total Iterations: 10000
+Accuracy: 95.28301886792453
+
+-------- Model: Logistic Regression ---------
+
+-------- Model: Logistic Regression ---------
